@@ -1,0 +1,17 @@
+package Open_Browser;
+
+import org.openqa.selinum.ChromeDriver;
+import org.openqa.selinum.*;
+
+class duckduckgosearch {
+	public static void main(String[]args) throws InterruptedException {
+		ChromeDriver driver =new ChromeDriver();
+	driver.get("https://duckduckgo.com/");
+	driver.
+	
+	
+	
+
+}
+
+}

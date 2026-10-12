@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;chromedriver.exe&apos; to &apos;seliniumproject/src/test/resources&apos;&#x0D;&#x0A;- Original project: &apos;seliniumproject&apos;&#x0D;&#x0A;- Destination element: &apos;seliniumproject/src/test/resources&apos;&#x0D;&#x0A;- Original element: &apos;chromedriver.exe&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move file" destination="/src\/test\/resources=/maven.pomderived=/true=/=/test=/true=/=/optional=/true=/" element1="src/chromedriver.exe" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1788861156994" units="0" version="1.0"/>
+</session>
